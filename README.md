@@ -1,7 +1,8 @@
 # Console for JAVA
 KOSMO JAVA Project
 
-## 행맨 진행순서
+
+## 설명
 1. 주제 : Game
 
 2. 상세화 : 영어 단어 맞추기(Hang Man)
